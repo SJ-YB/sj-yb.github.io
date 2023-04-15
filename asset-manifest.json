@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b16fd6c6.js",
+    "main.css": "/static/css/main.3297ba5a.css",
+    "main.js": "/static/js/main.2ba3e726.js",
     "static/js/787.c6d77e30.chunk.js": "/static/js/787.c6d77e30.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/나눔손글씨 성실체.ttf": "/static/media/나눔손글씨 성실체.2b74074bed920937ac2b.ttf",
+    "static/media/main.png": "/static/media/main.072cbe520f3b0209d2e9.png",
+    "static/media/Laura Barbara.ttf": "/static/media/Laura Barbara.e47e4549b4a9002dd22e.ttf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b16fd6c6.js.map": "/static/js/main.b16fd6c6.js.map",
+    "main.3297ba5a.css.map": "/static/css/main.3297ba5a.css.map",
+    "main.2ba3e726.js.map": "/static/js/main.2ba3e726.js.map",
     "787.c6d77e30.chunk.js.map": "/static/js/787.c6d77e30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b16fd6c6.js"
+    "static/css/main.3297ba5a.css",
+    "static/js/main.2ba3e726.js"
   ]
 }
